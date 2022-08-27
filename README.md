@@ -1,4 +1,3 @@
-```html
 <h1>Avramoniu Calin</h1>
 <ul>
   <li>Location: <span style="color: #f95959:">Bucharest, Romania</span></li>
@@ -24,6 +23,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/ style="margin-right:20px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git" width="45" height="45" style="margin-right:20px;"/>
 </p>
-
-```
 
