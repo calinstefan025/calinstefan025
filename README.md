@@ -4,6 +4,7 @@
   <li>Work: <span style="color: #f95959:">Student</span></li>
   <li>Education: <span style="color: #f95959:">Faculty of Automatic Control and Computer Science UPB / National College of Computer Science “Tudor Vianu”</span></li>
   <li>Interested in: <span style="color: #f95959:">Web Development</span>, <span style="color: #f95959:">Investing</span></li>
+  <li>LinkedIn: <a>https://www.linkedin.com/in/c%C4%83lin-avr%C4%83moniu-a70393244/</a></li>
 </ul>
 
 <br>
