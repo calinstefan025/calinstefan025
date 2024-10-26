@@ -1,7 +1,5 @@
 <h1>Calin-Stefan Avramoniu</h1>
 
-<img  align="right" src="https://github-readme-stats.vercel.app/api?username=calinstefan025&theme=noctis_minimus&show_icons=true" />
-
 > [!IMPORTANT]
 > Contact email: clavramoniu@gmail.com
 > 
@@ -15,3 +13,6 @@
   <li>Interested in: <span style="color: #f95959:">Software Engineering</span>, <span style="color: #f95959:">Investing</span></li>
 </ul>
 
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=calinstefan025&theme=noctis_minimus&show_icons=true" />
