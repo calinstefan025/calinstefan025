@@ -1,6 +1,6 @@
 <h1>Calin-Stefan Avramoniu</h1>
 
-<img  align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=calinstefan025&theme=noctis_minimus&show_icons=true" />
+<img  align="right" src="https://github-readme-stats.vercel.app/api?username=calinstefan025&theme=noctis_minimus&show_icons=true" />
 
 > [!IMPORTANT]
 > Contact email: clavramoniu@gmail.com
