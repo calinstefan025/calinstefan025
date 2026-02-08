@@ -9,7 +9,7 @@
 > [!NOTE]
 > **Location:** Bucharest, Romania
 >
-> **Work:** STUDENT
+> **Work:** Go developer Intern @ IONOS Cloud & Student @ ACS UPB
 >
 > **Education:** Faculty of Automatic Control and Computer Science UPB (2023-2027)
 >
